@@ -1,0 +1,40 @@
+*{font-family: Arial, Helvetica, sans-serif;}
+
+body
+{
+    background-image: linear-gradient(to left, #D90404, #730202);
+}
+
+main
+{
+    background-color: #0D0D09;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px #730202;
+}
+
+h1
+{
+    color: #D90404;
+    text-align: center;
+    text-shadow: 2px 2px 3px #730202;
+}
+
+h2
+{
+    color: #D91136;
+}
+
+p
+{
+    color: #730202;
+    text-align: justify;
+}
+
+.credits
+{
+    color: #A62152;
+}
